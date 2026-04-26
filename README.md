@@ -6,12 +6,7 @@ Generate comprehensive, structured, Mermaid-rich documentation wikis for any cod
 
 ## Installation
 
-This plugin is ported for use with the Pi Coding Agent. Place it in your working directory and use the commands directly.
-
-```bash
-# Clone or copy this deep-wiki directory to your project
-cp -r ./deep-wiki /path/to/your/project/.pi-plugins/deep-wiki
-```
+See [INSTALL.md](./INSTALL.md) for installation instructions.
 
 ## Commands
 
