@@ -1,5 +1,5 @@
 {
-  "name": "deep-wiki",
+  "name": "@amb007/deep-wiki",
   "version": "1.0.0",
   "description": "AI-powered wiki generator for code repositories - Pi Coding Agent skill",
   "main": "SKILL.md",
