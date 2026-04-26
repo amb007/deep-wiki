@@ -1,0 +1,29 @@
+{
+  "name": "pi-deep-wiki",
+  "version": "1.0.0",
+  "description": "AI-powered wiki generator for code repositories - Pi Coding Agent skill",
+  "main": "SKILL.md",
+  "pi": {
+    "skills": [
+      "SKILL.md"
+    ]
+  },
+  "keywords": [
+    "pi",
+    "coding-agent",
+    "skill",
+    "documentation",
+    "wiki",
+    "vitepress",
+    "mermaid"
+  ],
+  "author": "Ported from Microsoft Skills",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microsoft/skills/tree/main/.github/plugins/deep-wiki"
+  },
+  "bugs": {
+    "url": "https://github.com/microsoft/skills/issues"
+  }
+}
