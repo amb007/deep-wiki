@@ -132,7 +132,7 @@ npm install pi-deep-wiki
 ## 🎉 Next Steps
 
 1. **Install the skill** using one of the methods above
-2. **Verify installation** with `/skills list`
+2. **Verify installation** by checking the skill is available
 3. **Generate your first wiki** with `/skill:deep-wiki crisp`
 4. **Explore advanced features** with `/skill:deep-wiki generate`
 

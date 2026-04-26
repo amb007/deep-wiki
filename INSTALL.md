@@ -68,13 +68,13 @@ Add the skill path to your Pi settings:
 
 ## Verification
 
-Check that the skill is loaded:
+Verify the skill is available by attempting to use it:
 
 ```bash
-/skills list
+/skill:deep-wiki help
 ```
 
-You should see `deep-wiki` in the list of available skills.
+This should show the available commands for the deep-wiki skill.
 
 ## Usage
 
@@ -227,12 +227,10 @@ Add to `.pi/settings.json`:
 After installation, verify the skill is working:
 
 ```bash
-# Check skill is loaded
-/skills list
-
-# Should see "deep-wiki" in the list
-
 # Test a command
+/skill:deep-wiki help
+
+# Should show available commands
 /skill:deep-wiki generate
 ```
 
