@@ -1,5 +1,5 @@
 {
-  "name": "pi-deep-wiki",
+  "name": "deep-wiki",
   "version": "1.0.0",
   "description": "AI-powered wiki generator for code repositories - Pi Coding Agent skill",
   "main": "SKILL.md",
@@ -22,7 +22,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:amb007/pi-deep-wiki.git"
+    "url": "git@github.com:amb007/deep-wiki.git"
   },
   "bugs": {
     "url": "https://github.com/microsoft/skills/issues"
